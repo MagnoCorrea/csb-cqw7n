@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-cqw7n/static/css/main.e20db453.chunk.css",
-    "main.js": "https://.github.io/csb-cqw7n/static/js/main.1700e99f.chunk.js",
-    "main.js.map": "https://.github.io/csb-cqw7n/static/js/main.1700e99f.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-cqw7n/static/js/runtime-main.b058f1a6.js",
-    "runtime-main.js.map": "https://.github.io/csb-cqw7n/static/js/runtime-main.b058f1a6.js.map",
-    "static/js/2.c31a8330.chunk.js": "https://.github.io/csb-cqw7n/static/js/2.c31a8330.chunk.js",
-    "static/js/2.c31a8330.chunk.js.map": "https://.github.io/csb-cqw7n/static/js/2.c31a8330.chunk.js.map",
-    "index.html": "https://.github.io/csb-cqw7n/index.html",
-    "precache-manifest.8ab0595609c926e0e0f610218ae5d059.js": "https://.github.io/csb-cqw7n/precache-manifest.8ab0595609c926e0e0f610218ae5d059.js",
-    "service-worker.js": "https://.github.io/csb-cqw7n/service-worker.js",
-    "static/css/main.e20db453.chunk.css.map": "https://.github.io/csb-cqw7n/static/css/main.e20db453.chunk.css.map",
-    "static/js/2.c31a8330.chunk.js.LICENSE.txt": "https://.github.io/csb-cqw7n/static/js/2.c31a8330.chunk.js.LICENSE.txt"
+    "main.css": "https://magnocorrea.github.io/csb-cqw7n/static/css/main.e20db453.chunk.css",
+    "main.js": "https://magnocorrea.github.io/csb-cqw7n/static/js/main.1700e99f.chunk.js",
+    "main.js.map": "https://magnocorrea.github.io/csb-cqw7n/static/js/main.1700e99f.chunk.js.map",
+    "runtime-main.js": "https://magnocorrea.github.io/csb-cqw7n/static/js/runtime-main.0765e953.js",
+    "runtime-main.js.map": "https://magnocorrea.github.io/csb-cqw7n/static/js/runtime-main.0765e953.js.map",
+    "static/js/2.4bd9c745.chunk.js": "https://magnocorrea.github.io/csb-cqw7n/static/js/2.4bd9c745.chunk.js",
+    "static/js/2.4bd9c745.chunk.js.map": "https://magnocorrea.github.io/csb-cqw7n/static/js/2.4bd9c745.chunk.js.map",
+    "index.html": "https://magnocorrea.github.io/csb-cqw7n/index.html",
+    "precache-manifest.bdd903702541cf8326d2819b97508c3a.js": "https://magnocorrea.github.io/csb-cqw7n/precache-manifest.bdd903702541cf8326d2819b97508c3a.js",
+    "service-worker.js": "https://magnocorrea.github.io/csb-cqw7n/service-worker.js",
+    "static/css/main.e20db453.chunk.css.map": "https://magnocorrea.github.io/csb-cqw7n/static/css/main.e20db453.chunk.css.map",
+    "static/js/2.4bd9c745.chunk.js.LICENSE.txt": "https://magnocorrea.github.io/csb-cqw7n/static/js/2.4bd9c745.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b058f1a6.js",
-    "static/js/2.c31a8330.chunk.js",
+    "static/js/runtime-main.0765e953.js",
+    "static/js/2.4bd9c745.chunk.js",
     "static/css/main.e20db453.chunk.css",
     "static/js/main.1700e99f.chunk.js"
   ]
